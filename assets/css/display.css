@@ -1,0 +1,18 @@
+h1{
+    background-color: cyan;
+    border: 2px solid black;
+    width: 100px;
+    padding: 50px;
+    margin: 50px;
+    display: inline-block;
+}
+
+
+span{
+    background-color: grey;
+    border: 2px solid black;
+    width: 500px;
+    padding: 50px;
+    margin: 50px;
+    display: none;
+}
